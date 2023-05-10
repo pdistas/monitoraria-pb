@@ -17,5 +17,9 @@
     "tslib": "^2.5.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "pocketbase": "^0.14.4",
+    "zod": "^3.21.4"
   }
 }
